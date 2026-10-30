@@ -180,8 +180,8 @@ npm start       # Run the production server
 **Shahina Sareen KT**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shahinasareenkt.dev-000000?style=flat-square)](https://www.shahinasareenkt.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-shahinakt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahinasareenkt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahinakt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahinasareenkt)
+[![GitHub](https://img.shields.io/badge/GitHub-shahinasareenkt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahinasareenkt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahinasareenkt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahinasareenkt)
 
 ---
 
