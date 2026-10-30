@@ -11,11 +11,11 @@ const MediumIcon = () => (
 );
 
 const socialLinks = [
-  { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/in/shahinakt', color: 'hover:text-blue-600' },
-  { name: 'GitHub', icon: Github, url: 'https://github.com/shahinakt', color: 'hover:text-gray-900 dark:hover:text-white' },
-  { name: 'Medium', icon: MediumIcon, url: 'https://medium.com/@shahinasareen', color: 'hover:text-green-600' },
+  { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/in/shahinasareenkt', color: 'hover:text-blue-600' },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/shahinasareenkt', color: 'hover:text-gray-900 dark:hover:text-white' },
+  { name: 'Medium', icon: MediumIcon, url: 'https://medium.com/@shahinasareenkt', color: 'hover:text-green-600' },
   { name: 'Twitter', icon: Twitter, url: 'https://twitter.com/shahinasareenkt', color: 'hover:text-blue-400' },
-  { name: 'Instagram', icon: Instagram, url: 'https://instagram.com/shahinasareen', color: 'hover:text-pink-600' },
+  { name: 'Instagram', icon: Instagram, url: 'https://instagram.com/shahinasareenkt', color: 'hover:text-pink-600' },
   { name: 'Facebook', icon: Facebook, url: 'https://facebook.com/shahinasareenkt', color: 'hover:text-blue-700' },
 ];
 
